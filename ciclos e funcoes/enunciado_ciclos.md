@@ -14,7 +14,7 @@ Também podes pôr apenas `range(max)` ou `range(min, max)`.
 
 ## Exercícios
 
-### Ciclos
+### 1. Ciclos
 
 1. Imprimir números entre 0 e 10.
 
@@ -27,4 +27,32 @@ Também podes pôr apenas `range(max)` ou `range(min, max)`.
 4. Imprimir números entre 20 e 0, mas na ordem decrescente, descendo de 2 em dois.
    Resultado esperado (na vertical): 20 18 16...
 
-### Funções
+5. Imprimir os números de 0 a 10, e depois de 10 para 0. Podem ser precisos dois ciclos for's, um após o outro.
+   Resultado esperado (na vertical): 0 1 2 3 ... 8 9 10 9 8 ... 3 2 1 0
+
+6. Fazer a tabuada do 1 (fazer depois).
+   Resultado esperado:
+```
+1 * 1 = 1
+1 * 2 = 2
+1 * 3 = 3
+1 * 4 = 4
+...
+```
+
+### 2. Ciclos e condicionais
+
+TODO: Números divisíveis por outros?
+
+1. Imprimir apenas os números maiores que 10, mas o ciclo for vai de 0 a 20.
+    Dica (alterar reticências): 
+``` 
+    for ...:
+        if ...:
+            print(...)
+```
+Resultado esperado: 10 11 12 ...
+
+### 3. Ciclos dentro de ciclos?
+
+
