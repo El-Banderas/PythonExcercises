@@ -29,7 +29,7 @@ Também podes pôr apenas `range(max)` ou `range(min, max)`.
 \   Resultado esperado (na vertical): 20 18 16...
 
 5. Imprimir os números de 0 a 10, e depois de 10 para 0. \ Podem ser precisos dois ciclos for's, um após o outro.
-   Resultado esperado (na vertical): 0 1 2 3 ... 8 9 10 9 8 ... 3 2 1 0
+   Resultado esperado (na vertical):  1 2 3 ... 8 9 10 9 8 ... 3 2 1 
 
 6. Fazer a tabuada do 1 (fazer depois).
   \ Resultado esperado:
